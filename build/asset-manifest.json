@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vitessce-demo-gh-pages/static/css/main.136fc852.css",
+    "main.js": "/vitessce-demo-gh-pages/static/js/main.3468725f.js",
+    "static/js/787.24e7ff92.chunk.js": "/vitessce-demo-gh-pages/static/js/787.24e7ff92.chunk.js",
+    "index.html": "/vitessce-demo-gh-pages/index.html",
+    "main.136fc852.css.map": "/vitessce-demo-gh-pages/static/css/main.136fc852.css.map",
+    "main.3468725f.js.map": "/vitessce-demo-gh-pages/static/js/main.3468725f.js.map",
+    "787.24e7ff92.chunk.js.map": "/vitessce-demo-gh-pages/static/js/787.24e7ff92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.136fc852.css",
+    "static/js/main.3468725f.js"
+  ]
+}
